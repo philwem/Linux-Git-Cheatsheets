@@ -16,8 +16,8 @@ Quick reference guides for essential Linux commands and Git/GitHub operations.
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/Linux-Git-Cheatsheet.git
-cd Linux-Git-Cheatsheet
+git clone https://github.com/philwem/Linux-Git-Cheatsheets.git
+cd Linux-Git-Cheatsheets
 ```
 
 ## 💡 Use Cases
